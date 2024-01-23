@@ -16,7 +16,15 @@ Before running 'rec_simulation.py', the recommendation model needs to be trained
 
 And the model implementation code is in 'model/' directory.
 
-## 3. references
+## 3. datasets
+
+You can get the preprocessed data through Baidu Cloud Disk:
+
+Link: https://pan.baidu.com/s/1tsW6CqFbG8OMYT1aTHhEQQ
+
+Extraction code: kj7a
+
+## 4. references
 
 recommendation models refer to the following:
 
@@ -29,11 +37,3 @@ recommendation models refer to the following:
 - DPP: [laming-chen/fast-map-dpp: Fast Greedy MAP Inference for DPP. (github.com)](https://github.com/laming-chen/fast-map-dpp)
 
 - DGRec: [YangLiangwei/DGRec (github.com)](https://github.com/YangLiangwei/DGRec)
-
-## 4. datasets
-
-You can get the preprocessed data through Baidu Cloud Disk:
-
-Link: https://pan.baidu.com/s/1tsW6CqFbG8OMYT1aTHhEQQ
-
-Extraction code: kj7a
