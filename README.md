@@ -29,3 +29,8 @@ recommendation models refer to the following:
 - DPP: [laming-chen/fast-map-dpp: Fast Greedy MAP Inference for DPP. (github.com)](https://github.com/laming-chen/fast-map-dpp)
 
 - DGRec: [YangLiangwei/DGRec (github.com)](https://github.com/YangLiangwei/DGRec)
+
+## 4. datasets
+You can get the preprocessed data through Baidu Cloud Disk:
+Link: https://pan.baidu.com/s/1tsW6CqFbG8OMYT1aTHhEQQ
+Extraction code: kj7a
