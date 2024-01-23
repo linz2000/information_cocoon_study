@@ -9,10 +9,11 @@ Source code of the paper "An Exploratory Study on Information Cocoon in Recommen
 
 ## 2. train models
 
-Before running 'rec_simulation.py', the model needs to be trained in advance.
+Before running 'rec_simulation.py', the recommendation model needs to be trained in advance.
 - train_prob_predict.py -- train news recommendation model: NRMS, NAML, DKN.
 - train_fm_and_ncf.py -- train DeepFM and NCF models.
 - train_ngcf.py -- train NGCF model.
+
 And the model implementation code is in 'model/' directory.
 
 ## 3. references
@@ -26,3 +27,5 @@ recommendation models refer to the following:
 - NRMS, NAML and DKN: [yusanshi/news-recommendation: Implementations of some methods in news recommendation. (github.com)](https://github.com/yusanshi/news-recommendation)
 
 - DPP: [laming-chen/fast-map-dpp: Fast Greedy MAP Inference for DPP. (github.com)](https://github.com/laming-chen/fast-map-dpp)
+
+- DGRec: [YangLiangwei/DGRec (github.com)](https://github.com/YangLiangwei/DGRec)
